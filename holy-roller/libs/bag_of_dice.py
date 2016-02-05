@@ -5,7 +5,7 @@ ten_sided_die = range(1,11)
 twenty_sided_die = range(1,21)
 
 # And one truly evil one.
-six_hundred_sixty_six_sided_die = range(666)
+six_hundred_sixty_six_sided_die = range(1,667)
 
 if __name__ == '__main__':
     import random
