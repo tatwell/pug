@@ -39,3 +39,6 @@ Homework: Refactor Holy Roller script.
 A simple dice-rolling command line script.
 
 To run: `python holy-roller/roll.py 20`
+
+## References
+- [Structure and Interpretation of Computer Programs (for Python)](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
