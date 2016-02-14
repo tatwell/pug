@@ -59,8 +59,8 @@ def usage():
 """
 
 if __name__ == '__main__':
-    # Default: run help
-    request = sys.argv[1] if len(sys.argv) > 1 else 'help'
+    # Default: run usage
+    request = sys.argv[1] if len(sys.argv) > 1 else 'default'
 
     if request.isdigit():
         fizzbuzz(int(request))
