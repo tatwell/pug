@@ -9,7 +9,7 @@
 import sys
 import random
 
-from bag.bag_of_dice import four_sided_die, six_sided_die, ten_sided_die, twenty_sided_die
+from bag.of_dice import four_sided_die, six_sided_die, ten_sided_die, twenty_sided_die
 
 
 def roll(die):
